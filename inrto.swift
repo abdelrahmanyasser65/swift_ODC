@@ -47,4 +47,3 @@ print("Your favorite programming language is \(name!).")
 
 let name=readLine()
 
-
